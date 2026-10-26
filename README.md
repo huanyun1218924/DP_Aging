@@ -1,4 +1,4 @@
-# Metabolomic signatures of dietary patterns and healthy longevity: an integrative multi-omics analysis among 16,593 U.S. adults with 32 years of follow-up
+# Metabolomic signatures of dietary patterns and healthy longevity: an integrative multi-omics analysis
 ## 📌 Overview
 
 This repository contains the simulated sample data and main analysis code for a integrative study investigating the associations between diet, circulating metabolome in relation to healthy longevity. The analysis utilizes diet, metabolomics, genetics, biomarkers, and clinical phenotypes.
