@@ -8,9 +8,9 @@ This repository contains the simulated sample data and main analysis code for a 
 ```text
 ├── code/
 │   ├── Figure 2.R
-│   ├── Figure 3.R
+│   ├── Figure 3.Rmd
 │   ├── Figure 4.R
-│   ├── Figure 5.Rmd
+│   ├── Figure 5.R
 │   └── Figure 6.R
 │
 └── README.md
